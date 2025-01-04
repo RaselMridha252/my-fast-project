@@ -2,6 +2,10 @@ ol{
    color: brown;
    background-color: beige;
 }
-p{
-    background-color: bisque;
+
+button{
+    color: chocolate;
+}
+body{
+    color: rgb(43, 42, 40);
 }
