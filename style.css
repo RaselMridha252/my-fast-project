@@ -7,8 +7,10 @@ ol{
    padding: 25px;
 }
 
-button{
+.btn{
     color: chocolate;
+    margin: auto;
+    display: block;
 }
 body{
     color: rgb(90, 80, 61);
